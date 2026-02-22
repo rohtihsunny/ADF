@@ -1,5 +1,5 @@
 {
-	"name": "Copy_data",
+	"name": "Copy_blobtoblob",
 	"properties": {
 		"activities": [
 			{
