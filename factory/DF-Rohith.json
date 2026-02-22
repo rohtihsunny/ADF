@@ -1,0 +1,9 @@
+{
+	"name": "DF-Rohith",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d377b78-36eb-473b-8ad9-c9e68f724e66",
+		"tenantId": "65b26a31-8797-4a01-b089-80b0caff937b"
+	}
+}
